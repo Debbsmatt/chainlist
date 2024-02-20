@@ -1,7 +1,7 @@
 If you are adding a new RPC, please answer the following questions.
 
 #### Link the service provider's website (the company/protocol/individual providing the RPC):
-
+https://rpcpc1-qa.agung.peaq.network	
 
 #### Provide a link to your privacy policy:
 
